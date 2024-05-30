@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Task-03</id>
+    <version>1.0.0</version>
+    <authors>Task-03</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\for_C#\OOP-Lab07\Task-03\bin\Debug\net7.0\Task-03.runtimeconfig.json" target="lib\net7.0\Task-03.runtimeconfig.json" />
+    <file src="E:\for_C#\OOP-Lab07\Task-03\bin\Debug\net7.0\Task-03.dll" target="lib\net7.0\Task-03.dll" />
+  </files>
+</package>

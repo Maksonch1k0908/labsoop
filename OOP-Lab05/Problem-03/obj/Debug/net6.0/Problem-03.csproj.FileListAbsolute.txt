@@ -1,0 +1,15 @@
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\bin\Debug\net6.0\Problem-03.exe
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\bin\Debug\net6.0\Problem-03.deps.json
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\bin\Debug\net6.0\Problem-03.runtimeconfig.json
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\bin\Debug\net6.0\Problem-03.dll
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\bin\Debug\net6.0\Problem-03.pdb
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\obj\Debug\net6.0\Problem-03.csproj.AssemblyReference.cache
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\obj\Debug\net6.0\Problem-03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\obj\Debug\net6.0\Problem-03.AssemblyInfoInputs.cache
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\obj\Debug\net6.0\Problem-03.AssemblyInfo.cs
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\obj\Debug\net6.0\Problem-03.csproj.CoreCompileInputs.cache
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\obj\Debug\net6.0\Problem-03.dll
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\obj\Debug\net6.0\refint\Problem-03.dll
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\obj\Debug\net6.0\Problem-03.pdb
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\obj\Debug\net6.0\Problem-03.genruntimeconfig.cache
+D:\Унік\ООП\labs\OOP-Lab-05\Problem-03\obj\Debug\net6.0\ref\Problem-03.dll

@@ -1,0 +1,14 @@
+D:\for_C#\Task-01\OOP_Lab10\obj\Debug\net8.0\OOP_Lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\for_C#\Task-01\OOP_Lab10\obj\Debug\net8.0\OOP_Lab11.AssemblyInfoInputs.cache
+D:\for_C#\Task-01\OOP_Lab10\obj\Debug\net8.0\OOP_Lab11.AssemblyInfo.cs
+D:\for_C#\Task-01\OOP_Lab10\obj\Debug\net8.0\OOP_Lab11.csproj.CoreCompileInputs.cache
+D:\for_C#\Task-01\OOP_Lab10\bin\Debug\net8.0\OOP_Lab11.exe
+D:\for_C#\Task-01\OOP_Lab10\bin\Debug\net8.0\OOP_Lab11.deps.json
+D:\for_C#\Task-01\OOP_Lab10\bin\Debug\net8.0\OOP_Lab11.runtimeconfig.json
+D:\for_C#\Task-01\OOP_Lab10\bin\Debug\net8.0\OOP_Lab11.dll
+D:\for_C#\Task-01\OOP_Lab10\bin\Debug\net8.0\OOP_Lab11.pdb
+D:\for_C#\Task-01\OOP_Lab10\obj\Debug\net8.0\OOP_Lab11.dll
+D:\for_C#\Task-01\OOP_Lab10\obj\Debug\net8.0\refint\OOP_Lab11.dll
+D:\for_C#\Task-01\OOP_Lab10\obj\Debug\net8.0\OOP_Lab11.pdb
+D:\for_C#\Task-01\OOP_Lab10\obj\Debug\net8.0\OOP_Lab11.genruntimeconfig.cache
+D:\for_C#\Task-01\OOP_Lab10\obj\Debug\net8.0\ref\OOP_Lab11.dll

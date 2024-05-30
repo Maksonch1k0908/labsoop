@@ -1,0 +1,15 @@
+E:\for_C#\Task-01\OOP-Lab04\bin\Debug\net7.0\OOP-Lab04.exe
+E:\for_C#\Task-01\OOP-Lab04\bin\Debug\net7.0\OOP-Lab04.deps.json
+E:\for_C#\Task-01\OOP-Lab04\bin\Debug\net7.0\OOP-Lab04.runtimeconfig.json
+E:\for_C#\Task-01\OOP-Lab04\bin\Debug\net7.0\OOP-Lab04.dll
+E:\for_C#\Task-01\OOP-Lab04\bin\Debug\net7.0\OOP-Lab04.pdb
+E:\for_C#\Task-01\OOP-Lab04\obj\Debug\net7.0\OOP-Lab04.csproj.AssemblyReference.cache
+E:\for_C#\Task-01\OOP-Lab04\obj\Debug\net7.0\OOP-Lab04.GeneratedMSBuildEditorConfig.editorconfig
+E:\for_C#\Task-01\OOP-Lab04\obj\Debug\net7.0\OOP-Lab04.AssemblyInfoInputs.cache
+E:\for_C#\Task-01\OOP-Lab04\obj\Debug\net7.0\OOP-Lab04.AssemblyInfo.cs
+E:\for_C#\Task-01\OOP-Lab04\obj\Debug\net7.0\OOP-Lab04.csproj.CoreCompileInputs.cache
+E:\for_C#\Task-01\OOP-Lab04\obj\Debug\net7.0\OOP-Lab04.dll
+E:\for_C#\Task-01\OOP-Lab04\obj\Debug\net7.0\refint\OOP-Lab04.dll
+E:\for_C#\Task-01\OOP-Lab04\obj\Debug\net7.0\OOP-Lab04.pdb
+E:\for_C#\Task-01\OOP-Lab04\obj\Debug\net7.0\OOP-Lab04.genruntimeconfig.cache
+E:\for_C#\Task-01\OOP-Lab04\obj\Debug\net7.0\ref\OOP-Lab04.dll

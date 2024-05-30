@@ -1,0 +1,15 @@
+E:\for_C#\OOP-Lab07\Task-02\bin\Debug\net7.0\Task-02.exe
+E:\for_C#\OOP-Lab07\Task-02\bin\Debug\net7.0\Task-02.deps.json
+E:\for_C#\OOP-Lab07\Task-02\bin\Debug\net7.0\Task-02.runtimeconfig.json
+E:\for_C#\OOP-Lab07\Task-02\bin\Debug\net7.0\Task-02.dll
+E:\for_C#\OOP-Lab07\Task-02\bin\Debug\net7.0\Task-02.pdb
+E:\for_C#\OOP-Lab07\Task-02\obj\Debug\net7.0\Task-02.csproj.AssemblyReference.cache
+E:\for_C#\OOP-Lab07\Task-02\obj\Debug\net7.0\Task-02.GeneratedMSBuildEditorConfig.editorconfig
+E:\for_C#\OOP-Lab07\Task-02\obj\Debug\net7.0\Task-02.AssemblyInfoInputs.cache
+E:\for_C#\OOP-Lab07\Task-02\obj\Debug\net7.0\Task-02.AssemblyInfo.cs
+E:\for_C#\OOP-Lab07\Task-02\obj\Debug\net7.0\Task-02.csproj.CoreCompileInputs.cache
+E:\for_C#\OOP-Lab07\Task-02\obj\Debug\net7.0\Task-02.dll
+E:\for_C#\OOP-Lab07\Task-02\obj\Debug\net7.0\refint\Task-02.dll
+E:\for_C#\OOP-Lab07\Task-02\obj\Debug\net7.0\Task-02.pdb
+E:\for_C#\OOP-Lab07\Task-02\obj\Debug\net7.0\Task-02.genruntimeconfig.cache
+E:\for_C#\OOP-Lab07\Task-02\obj\Debug\net7.0\ref\Task-02.dll

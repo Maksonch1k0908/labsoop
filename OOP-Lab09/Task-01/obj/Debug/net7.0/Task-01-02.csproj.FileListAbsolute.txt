@@ -1,0 +1,14 @@
+D:\for_C#\OOP-Lab09\Task-01\bin\Debug\net7.0\Task-01-02.exe
+D:\for_C#\OOP-Lab09\Task-01\bin\Debug\net7.0\Task-01-02.deps.json
+D:\for_C#\OOP-Lab09\Task-01\bin\Debug\net7.0\Task-01-02.runtimeconfig.json
+D:\for_C#\OOP-Lab09\Task-01\bin\Debug\net7.0\Task-01-02.dll
+D:\for_C#\OOP-Lab09\Task-01\bin\Debug\net7.0\Task-01-02.pdb
+D:\for_C#\OOP-Lab09\Task-01\obj\Debug\net7.0\Task-01-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\for_C#\OOP-Lab09\Task-01\obj\Debug\net7.0\Task-01-02.AssemblyInfoInputs.cache
+D:\for_C#\OOP-Lab09\Task-01\obj\Debug\net7.0\Task-01-02.AssemblyInfo.cs
+D:\for_C#\OOP-Lab09\Task-01\obj\Debug\net7.0\Task-01-02.csproj.CoreCompileInputs.cache
+D:\for_C#\OOP-Lab09\Task-01\obj\Debug\net7.0\Task-01-02.dll
+D:\for_C#\OOP-Lab09\Task-01\obj\Debug\net7.0\refint\Task-01-02.dll
+D:\for_C#\OOP-Lab09\Task-01\obj\Debug\net7.0\Task-01-02.pdb
+D:\for_C#\OOP-Lab09\Task-01\obj\Debug\net7.0\Task-01-02.genruntimeconfig.cache
+D:\for_C#\OOP-Lab09\Task-01\obj\Debug\net7.0\ref\Task-01-02.dll
